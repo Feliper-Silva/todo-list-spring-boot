@@ -62,7 +62,7 @@ Para realizar as requisições HTTP, foi utilizada a ferramento [postman](https:
 - Atualizar Tarefas(PUT)
   ```shell
       http://127.0.0.1:8080/todos/1
-      ````
+  ````
   ```shell
     [
         {
@@ -73,7 +73,7 @@ Para realizar as requisições HTTP, foi utilizada a ferramento [postman](https:
         "realizado": true
         }
     ]
-      ````
+   ````
 
 - Delete Tarefa(DELETE)
   ```shell
